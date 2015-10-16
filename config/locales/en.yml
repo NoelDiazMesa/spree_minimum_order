@@ -1,0 +1,4 @@
+---
+en:
+  checkout_allowed_errors:
+        minimum_order_value: 'Minimum Purchase of '
